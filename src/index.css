@@ -1,0 +1,8 @@
+section {
+  display:flex;
+
+}
+
+#content-picker {
+    flex: .5;
+}
